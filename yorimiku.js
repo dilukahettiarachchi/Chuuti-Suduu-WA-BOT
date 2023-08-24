@@ -3191,7 +3191,7 @@ Lihat list Pesan Dengan ${prefix}listmsg`)
   
             case 'allmenu': 
             case 'menu': {
-    let anu =`Hello ${pushname}\n Saya ${namabot} Adalah Bot WhatsApp Yang Memiliki Fitur Dan Saya Disini Hanya Untuk Membuat Anda Puas Dengan Fitur Kami.
+    let anu =`Hello ${pushname}\n Bro / Sis ${namabot} Adalah Bot WhatsApp Yang Memiliki Fitur Dan Saya Disini Hanya Untuk Membuat Anda Puas Dengan Fitur Kami.
 
   ☫ *Mode:* ${conn.public ? 'Public-Mode 👥' : 'Self-Mode 👤'}
   ☫ *Bailyes:* NakanoMiky/Baileys
@@ -3276,7 +3276,7 @@ Lihat list Pesan Dengan ${prefix}listmsg`)
 ╚━═━═━═━═━═━═━═━〄
 
 
-╔━〄『 *PRIMBON  MENU* 』〄
+╔━〄『 *PHROSCOPE  MENU* 』〄
 ║ ✠ ➻ ${prefix}nomorhoki
 ║ ✠ ➻ ${prefix}artimimpi
 ║ ✠ ➻ ${prefix}artinama
@@ -3375,7 +3375,7 @@ Lihat list Pesan Dengan ${prefix}listmsg`)
 ╚━═━═━═━═━═━═━═━〄
 
 
-╔━〄『 *ASUPAN  MENU* 』〄
+╔━〄『 *INPUT  MENU* 』〄
 ║ ✠ ➻ ${prefix}cecan
 ║ ✠ ➻ ${prefix}china
 ║ ✠ ➻ ${prefix}cogan
@@ -3438,7 +3438,7 @@ Lihat list Pesan Dengan ${prefix}listmsg`)
 ╚━═━═━═━═━═━═━═━〄
 
 
-╔━〄『 *DOWN  MENU* 』〄
+╔━〄『 *DOWNLOAD  MENU* 』〄
 ║ ✠ ➻ ${prefix}ytplay
 ║ ✠ ➻ ${prefix}ytmp3
 ║ ✠ ➻ ${prefix}ytmp4
@@ -3662,13 +3662,14 @@ Lihat list Pesan Dengan ${prefix}listmsg`)
 ╚━═━═━═━═━═━═━═━〄
 
 
-╔━〄『 *FITUR  MENU* 』〄
+╔━〄『 *FEATURE  MENU* 』〄
 ║ ✠ ➻ ${prefix}kenon
 ║ ✠ ➻ ${prefix}unbanwa
 ║ ✠ ➻ ${prefix}antipushkontakv1
 ║ ✠ ➻ ${prefix}antipushkontakv2
 ╚━═━═━═━═━═━═━═━〄
-_Masih Dalam Tahap Perkembangan_
+
+_Still In Development Stage_
 
 
 ╔━〄『 *MEME  MENU* 』〄
@@ -3677,7 +3678,8 @@ _Masih Dalam Tahap Perkembangan_
 ║ ✠ ➻ ${prefix}memeindo
 ╚━═━═━═━═━═━═━═━〄
 
-© miky-Md - Botz
+© Chuuti Suduu WA BOT
+BY:-DILLA EDITZ
 `
 function _0x569b(_0x23a625, _0x245b41) {
     var _0x1e23fa = _0x1e23();
